@@ -1,0 +1,6 @@
+[book]
+authors = ["Indosaram"]
+language = "en"
+multilingual = false
+src = "src"
+title = "주니어 개발자를 위한 AWS 가이드"
